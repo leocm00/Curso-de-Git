@@ -1,0 +1,2 @@
+# se ignora la carpera bin
+bin
